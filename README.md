@@ -26,17 +26,19 @@
 
 <h3 align="left">💫 About Me</h3>
 <h4> 
-🌱 Currently diving deep into mastering Go, honing my programming craft
-🔭 Exploring Go's concurrency patterns and building efficient, scalable apps
-⚡ Passionate about distributed systems, backend development, and cloud-native tech
+🌱 Currently diving deep into mastering Go, honing my programming craft</br>
+🔭 Exploring Go's concurrency patterns and building efficient, scalable apps</br>
+⚡ Passionate about distributed systems, backend development, and cloud-native tech</br>
 ✨ Striving for clean code and elegant solutions in every project
 </h4>
 
 <h3 align="center">🌱 Github Stats</h3>
 <br>
-<a href="https://github.com/di0mantik">
-  <img alt="Github Stats" src="https://streak-stats.demolab.com?user=di0mantik&theme=transparent&hide_border=true"/>
-</a>
+<div align="center">
+  <a href="https://github.com/di0mantik">
+    <img alt="Github Stats" src="https://streak-stats.demolab.com?user=di0mantik&theme=transparent&hide_border=true"/>
+  </a>
+</div>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 <div align="center">
