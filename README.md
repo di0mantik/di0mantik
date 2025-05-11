@@ -5,23 +5,17 @@
 <h1 align="center">I'm di0mantik</h1>
 
 <div align="center">
-  <a href="https://github.com/di0mantik">
-    <img height="28px" 
-      src="https://komarev.com/ghpvc/?username=di0mantik&label=Profile%20views&color=318CE7&style=for-the-badge" 
-      alt="Profile views" />
-  </a>
-  <a href="https://api.github-star-counter.workers.dev/user/di0mantik">
-    <img height="28px" 
-      alt="Total stars" 
-      title="Total stars on GitHub" 
-      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/di0mantik"       />
-  </a>
-  <a href="https://github.com/di0mantik?tab=followers">
-    <img height="28px" 
-      alt="Followers" 
-      title="Follow me on GitHub" 
-      src="https://custom-icon-badges.herokuapp.com/github/followers/di0mantik?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
-  </a>
+  <img height="28px" 
+    src="https://komarev.com/ghpvc/?username=di0mantik&label=Profile%20views&color=318CE7&style=for-the-badge" 
+    alt="Profile views" />
+  <img height="28px" 
+    alt="Total stars" 
+    title="Total stars on GitHub" 
+    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/di0mantik"       />
+  <img height="28px" 
+    alt="Followers" 
+    title="Follow me on GitHub" 
+    src="https://custom-icon-badges.herokuapp.com/github/followers/di0mantik?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
 </div>
 
 <h3 align="left">💫 About Me</h3>
