@@ -26,14 +26,7 @@
 ✨ Striving for clean code and elegant solutions in every project
 </h4>
 
-<h3 align="center">🌱 Github Stats</h3>
 <br>
-<div align="center">
-  <a href="https://github.com/di0mantik">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=di0mantik&hide=contribs,prs&hide_border=true&show_icons=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=0d1117" />
-    <!--<img alt="Github Stats" src="https://streak-stats.demolab.com?user=di0mantik&theme=transparent&hide_border=true" />-->
-  </a>
-</div>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 <div align="center">
